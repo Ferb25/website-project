@@ -1,0 +1,35 @@
+.navbar-brand {
+    font-family:ff scala;
+    font-size:30px;
+    margin:10px;
+}
+
+.nav-link {
+    font-family:ff scala sans;
+    font-size:20px;
+}
+
+footer p {
+    font-family:ff scala sans;
+    font-size:13px;
+}
+
+h1 {
+    font-family:ff scala;
+    font-size:50px
+}
+
+h3 {
+    font-family:ff scala;
+    font-size:22px;
+}
+
+p {
+    font-family:ff scala sans;
+    font-size:18px;
+}
+
+h6 {
+    font-family:ff scala sans;
+    font-size:20px;
+}
