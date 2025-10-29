@@ -33,3 +33,7 @@ h6 {
     font-family:ff scala sans;
     font-size:20px;
 }
+
+.img-fluid {
+    width:500px;
+}
